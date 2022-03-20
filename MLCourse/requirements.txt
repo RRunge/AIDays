@@ -2,3 +2,5 @@ pandas
 notebook
 numpy
 scikit-learn
+tensorflow
+matplotlib
